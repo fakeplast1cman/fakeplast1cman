@@ -2,7 +2,7 @@
 
 ### no today bruh :sparkles:
  
-<p style="align:center"> 
+<p align="center"> 
    <img src="T3LB.gif">
 </p>
 

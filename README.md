@@ -3,7 +3,7 @@
 ### no today bruh :sparkles:
  
 <p align="center"> 
-   <img src="T3LB.gif">
+   <img src="T3LB.gif" autoplay>
 </p>
 
   

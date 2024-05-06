@@ -2,9 +2,9 @@
 
 ### no today bruh :sparkles:
 
-<div>
-    <img src="T3LB.gif" style="display: block; margin: auto">
-</div>
+<center><img src="T3LB.gif"></center>
+   
+
   
 
 

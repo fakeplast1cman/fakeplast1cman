@@ -3,6 +3,6 @@
 ### no today bruh :sparkles:
 
 <div> 
-  <img src="T3LB.gif">
+  <img src="T3LB.gif" style="align-self: center">
 </div>
 

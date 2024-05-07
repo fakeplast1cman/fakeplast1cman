@@ -1,7 +1,5 @@
-# cybersecurity and hobby development :closed_lock_with_key:
+<h1 align="center">cybersecurity and hobby development bruh:closed_lock_with_key::sparkles:</h1>
 
-### no today bruh :sparkles:
- 
 <p align="center"> 
    <img src="T3LB.gif" autoplay>
 </p>
